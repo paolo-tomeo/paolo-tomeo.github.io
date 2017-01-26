@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Paolo Tomeo
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: PhD candidate in Computer Science (Recommender Systems)
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars0.githubusercontent.com/u/7068099?v=3&u=9f1e7412d0c937b356dd4debac8c3859b15e4ea8&s=400
 
 #
 # Flags below are optional
@@ -21,12 +21,12 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: https://github.com/paolo-tomeo
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/ptomeo
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: https://twitter.com/paotomeo
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
